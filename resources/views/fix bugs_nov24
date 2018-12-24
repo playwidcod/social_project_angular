@@ -1,0 +1,87 @@
+wher is pagination
+
+
+sir in this page didnt add pagination thought of making scrollable
+
+
+In every page we need a pagination when scrolling down it should get the next data
+ok sir i only did in home page
+
+ok
+
+in javascript i found the locahost:8000 static url in all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+that was wrong you should define on place and use in all ove r application
+
+Notification icon is not upladting after accept or cancel request . its uplating only the page refresh
+
+
+Large html shoul not append like $().append("html content") we can append only small content. but when it comes to many to have a desing and template. we have to use the javascript template or create a junction and define in it and call do not make like this .
+
+
+If we append large content browser will stuck and hang wen serving multiple datas
+
+
+when commenting in post comment page should not refresh . comment should act like when liking the post by ajax call. and also make the comment order like recent comment should top first
+
+
+
+when calling the invalid url . it should redirect to 404r page. it should not show the laravel debug stuff
+
+In edit user / profile. image should be optional . 
+
+
+we need a edit post option which uploaded by user and also edit comment
+
+
+we need a pagination in listing finf friends also limit 10 per pagedon
+
+
+
+note  down this task and make a list and send to me 
+sure sir and one doubt
+
+yes
+in edit post will it should go to next page?sryanother page
+
+
+In edit options all comment and post . the edit option should only show to the corresponding owner
+
+
+And ther is no more option to change video in edit post.
+
+Whern clicking edit icon . it should show a popopup with title and description they acan edit by poup and submit it. the data should change without page refreshing
+
+
+page should not refresh .ok sir 
+
+
+Any other doubts
+no sir 
+
+Ok make a list and send to me .
+yes sir
+
+
+after sending work on any f task and try to complete atleast one and leave  at after 7.30 
+ok sir
+Ok bye 

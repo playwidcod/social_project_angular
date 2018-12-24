@@ -1,0 +1,134 @@
+have you done front end javascript validation ?
+in login for there is no jquey validation
+why ?
+at first i dono to use ajax in laravel then i learned sir its done before so i didnt used jquery.
+ok
+
+what is this close button ? sir ok sir  will fix that
+
+
+already send friend request and already my friend should not come under this section 
+oh ok .
+
+
+after changing or updating profile , it should not redirect to home page. it should in the same page only
+ok il fix.
+
+
+
+wher is my friend request notification ?
+
+
+
+its wrong. it should not be in the find friends . find friend is supposec to find the new friends . we need like notification
+
+
+its should show the number of notifcation and also the friend request should be button there
+ok sir . i wil create.
+ok 
+
+
+after accept or update . we should show a message  .
+
+you have updated profile successfully
+
+Friend request is send successfully
+
+ok sir.change those in all over applications mmok sir
+
+
+we need to show comments count . and also there is not even a single comment , why its showing older comments button
+sir older button is default if value is ther it will show else it dont show anything.
+
+Ok change that logic like . if the comment is more than 2 show it . or else dont shos the button
+
+
+By default how many comment will display ?all comments
+
+if all comment showing why the older comments button is there?
+if comment is there it will show.
+
+
+
+if the post has 50 comments . it home page itself we show 50 am i right ?
+yes
+
+what is the use of older comments button . if we already showed those 50 comments there ?
+hm how many comments should i display??
+
+
+
+show by default 3 comments.
+and also make the condition like if the commment count greater than 3 you should display the button older comment 
+
+or else you should not show that button
+
+ok.
+
+wher is the comment ???
+
+ok change the login like which i explained for comment 
+sir i have done like the comment falls in same row in the table by end of ; i thought of taking it by each comment but u are asking 3 comments means i have to change the whole code.
+
+
+how you differentiate the comments like i this table
+i thought of inserting time with the same comment and use it but it takes time fo me
+.
+
+
+
+Am asking what are the row insert in this table for like and what are the row for comment
+like and comment for post will be in same row.
+
+
+
+
+Its wrong structure . we have need to do many things. So change it .
+
+
+You can also have like and comment in same table . but it should be in different rows. with the idenntification flag like . is this row for comment or like..
+
+
+So please change that to different table . like rows and comments 'and change it'
+sir wait i will call i could not understand? ok
+call me
+
+
+
+r
+
+o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

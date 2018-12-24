@@ -1,0 +1,40 @@
+what was the keading there remove it CreateViewEdit
+my age was 27 still error showing Above 18 years of age is only allowed 
+oh ok
+
+
+2) password - validation required , (should accept only number , alphebets, underscore) ? its accepting @ also 
+only the above which i mentioned should in password valdiation
+
+3) restrict the user to should not enter a alpabets in the phone number textbox  and also restric the phone number should be 10 digits
+
+
+after submiting register make them login and redirect to home page 
+i need to have the login option in crete page or a menu
+see if i clicked register wrongly i dont have menu to go login 
+
+
+4) need to show invelid credentails message if i wrongly enter credentials
+
+5) where my details . all details are empty in edit profile ? sir i checked sir i wil check again fix
+
+
+6) password field is transparent
+
+7) what happen . i wrongly enter the old password its redirect to the login page ? i dono i sir i checked two and many time did migration 
+so i think i dono its workin in my credintials i wil check urs.
+
+you create a new accout and test all the scenarios so that you can have a idea about reproducing issue .
+
+
+password shouuld be save in database in encypted md5 format , should not be trasnparent
+
+what happen it s showilg my emial id was sample@gmail.com
+am typing pradeep@gmail.com . i can able to login ??
+realy shocking sir
+ok fix those issue and let me know. after 100 percent regsiter and login and edit profile working you can move on the post
+sure sir.
+
+ok am closing tv now. you register the new profile try validating negative scnario an make it works fine
+ok sir.
+ye

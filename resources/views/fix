@@ -1,0 +1,26 @@
+
+
+Why this error are here , In comment you are not getting by ajax call like i mentioned. - all i use ajax only sir.
+
+You are fetching all data and hiding in design. what happen if we have 2000 comments . will you get those 2000 comment from data 
+
+???
+
+
+
+edit profile is not working correctly , when adding or updating image , image is not updating and all text are empty
+
+once update post sucess page should not refresh . the data of the edited post should change withour refresh
+
+Where is like 
+
+
+when comment posting . space comes and also the pagination is wrong do not fetch all list
+
+
+
+http://localhost:8000/storage/downloads/&quot;+element.profile_pic+&quot;
+
+
+
+http://localhost:8000/storage/downloads/thumbnail/aemZtyOfSwttxVapTCdWj9NKqYuBv7sLxcvTbhpS.jpeg

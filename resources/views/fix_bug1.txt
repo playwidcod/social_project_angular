@@ -1,0 +1,52 @@
+sivaram what will happen if the user upload video with same name?
+new upload will happen with new id
+
+Am asking like if you are posting the video like sample.mp4 , its uploaded and its id was 2 
+
+And am uploading the video with the same name with sample.m4 , it sill also uploaded and it has id 3 , am i right ?
+yes it wil show 2 video's but in storage it wil replace the existing video.
+
+So this was the issue am i right , it should not replace. the video may be different but it has a same name . so note this issue
+
+Cleint pinged am checking
+
+
+
+
+
+
+
+
+
+sir it wil work sir system is very slow now
+ok
+
+i havent followed no one . why am seeing the post in home page
+yes sir have to check ..ok note this issue
+
+ok sir
+
+why its rediecting to home page?
+sir in home page only friends post will be displayed and i have created profile page there post of us will be displayed
+
+ok but here is different is shows the video was more than 5 mintues ? then why its reloading
+no not 5min i am calculating sec so it shows like that oiok
+where was my post,
+ but where is in profile page .
+ sir i will check sir
+
+bug:
+fix video with same name - fix this issue both now andleave todat
+fix home page post in new registerd usr
+
+
+
+please test correclty once again from your side. there are too many issue . please gone through and fix it. so that you can gain debug skills
+sure sir....
+
+complete the above two task and leave for the day. come early tomaoorow and test and  fix the issue .
+ok sir
+Please understand am not ordering or commading you. am tryng to develop your skills
+yes sir thank you
+
+thank you
